@@ -1,5 +1,7 @@
 {
-	"dependencies": {
-		"astring": "^1.9.0"
-	}
+  "name": "piglet-interactive-snippet",
+  "version": "0.1.0",
+  "dependencies": {
+    "astring": "^1.9.0"
+  }
 }
